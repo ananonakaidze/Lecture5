@@ -4,8 +4,9 @@ header {
 
     #navigation {
         display: inline-block;
+        width: 1300px;
     }
-    
+
     .logo {
         width: 100px;
         height: 100px;
